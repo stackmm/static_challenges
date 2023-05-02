@@ -1,0 +1,77 @@
+header {
+  background: red;
+  height: 70px;
+  padding: 0 25px;
+}
+
+header h1 {
+  font-size: 25px;
+  float: left;
+  color: white;
+}
+
+header p {
+  font-size: 18px;
+  float: right;
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+div {
+  height: 40px;
+  background: grey;
+}
+
+div nav ul li{
+  float: right;
+  font-size: 14px;
+  color: white;
+  padding: 0 20px;
+}
+
+section {
+  float: left;
+  width: 60%;
+}
+
+section h2 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 25px;
+  padding-bottom: 15px;
+}
+
+section p{
+  font-size: 15px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+}
+
+sidegallery {
+  float: right;
+  margin: 10 1.5%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+footer {
+  clear: both;
+  background: gray;
+  height: 80px;
+  padding: 0 25px;
+}
+
+footer p {
+  color: white;
+  font-size: 14px;
+  float: left;
+  color: white;
+  margin-top: 15px;
+}
